@@ -1,0 +1,19 @@
+body{
+    background-color: azure ;
+    color: darkslateblue;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer{
+    text-align: right;
+    background-color: gainsboro;
+    color: brown ;
+    text-decoration-line: underline;
+    text-indent: 8ch
+}
+p{
+    text-align: justify;
+    text-indent: 8ch
+}
+
